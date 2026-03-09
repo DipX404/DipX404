@@ -25,7 +25,7 @@ Always learning and experimenting with security technologies.
 
 📈 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipX404&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 ⚡ Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipX404&theme=tokyo-night"/>---
