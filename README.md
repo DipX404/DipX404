@@ -51,4 +51,4 @@ Always learning and experimenting with security technologies.
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a></p>---
 
-⭐ "Think like a hacker, defend like a professional."
+⭐ "Think like a hacker, defend like a professional.😎"
